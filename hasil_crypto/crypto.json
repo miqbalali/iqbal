@@ -1,0 +1,162 @@
+[
+  {
+    "no": 1,
+    "nama": "CoinMarketCap 20 Index DTF",
+    "harga_usd": "N/A",
+    "market_cap": "N/A",
+    "sumber": "CoinMarketCap",
+    "waktu_scraping": "2026-04-07 20:35:53.006088"
+  },
+  {
+    "no": 2,
+    "nama": "Bitcoin",
+    "harga_usd": "N/A",
+    "market_cap": "N/A",
+    "sumber": "CoinMarketCap",
+    "waktu_scraping": "2026-04-07 20:35:53.006952"
+  },
+  {
+    "no": 3,
+    "nama": "Ethereum",
+    "harga_usd": "N/A",
+    "market_cap": "N/A",
+    "sumber": "CoinMarketCap",
+    "waktu_scraping": "2026-04-07 20:35:53.008332"
+  },
+  {
+    "no": 4,
+    "nama": "Tether",
+    "harga_usd": "N/A",
+    "market_cap": "N/A",
+    "sumber": "CoinMarketCap",
+    "waktu_scraping": "2026-04-07 20:35:53.009624"
+  },
+  {
+    "no": 5,
+    "nama": "BNB",
+    "harga_usd": "N/A",
+    "market_cap": "N/A",
+    "sumber": "CoinMarketCap",
+    "waktu_scraping": "2026-04-07 20:35:53.010428"
+  },
+  {
+    "no": 6,
+    "nama": "XRP",
+    "harga_usd": "N/A",
+    "market_cap": "N/A",
+    "sumber": "CoinMarketCap",
+    "waktu_scraping": "2026-04-07 20:35:53.011864"
+  },
+  {
+    "no": 7,
+    "nama": "USDC",
+    "harga_usd": "N/A",
+    "market_cap": "N/A",
+    "sumber": "CoinMarketCap",
+    "waktu_scraping": "2026-04-07 20:35:53.071943"
+  },
+  {
+    "no": 8,
+    "nama": "Solana",
+    "harga_usd": "N/A",
+    "market_cap": "N/A",
+    "sumber": "CoinMarketCap",
+    "waktu_scraping": "2026-04-07 20:35:53.072953"
+  },
+  {
+    "no": 9,
+    "nama": "TRON",
+    "harga_usd": "N/A",
+    "market_cap": "N/A",
+    "sumber": "CoinMarketCap",
+    "waktu_scraping": "2026-04-07 20:35:53.074032"
+  },
+  {
+    "no": 10,
+    "nama": "Dogecoin",
+    "harga_usd": "N/A",
+    "market_cap": "N/A",
+    "sumber": "CoinMarketCap",
+    "waktu_scraping": "2026-04-07 20:35:53.074928"
+  },
+  {
+    "no": 11,
+    "nama": "UNUS SED LEO",
+    "harga_usd": "N/A",
+    "market_cap": "N/A",
+    "sumber": "CoinMarketCap",
+    "waktu_scraping": "2026-04-07 20:35:53.075694"
+  },
+  {
+    "no": 12,
+    "nama": "Hyperliquid",
+    "harga_usd": "N/A",
+    "market_cap": "N/A",
+    "sumber": "CoinMarketCap",
+    "waktu_scraping": "2026-04-07 20:35:53.077540"
+  },
+  {
+    "no": 13,
+    "nama": "Cardano",
+    "harga_usd": "N/A",
+    "market_cap": "N/A",
+    "sumber": "CoinMarketCap",
+    "waktu_scraping": "2026-04-07 20:35:53.082212"
+  },
+  {
+    "no": 14,
+    "nama": "Bitcoin Cash",
+    "harga_usd": "N/A",
+    "market_cap": "N/A",
+    "sumber": "CoinMarketCap",
+    "waktu_scraping": "2026-04-07 20:35:53.083837"
+  },
+  {
+    "no": 15,
+    "nama": "Chainlink",
+    "harga_usd": "N/A",
+    "market_cap": "N/A",
+    "sumber": "CoinMarketCap",
+    "waktu_scraping": "2026-04-07 20:35:53.085099"
+  },
+  {
+    "no": 16,
+    "nama": "XMR",
+    "harga_usd": "N/A",
+    "market_cap": "N/A",
+    "sumber": "CoinMarketCap",
+    "waktu_scraping": "2026-04-07 20:35:53.139176"
+  },
+  {
+    "no": 17,
+    "nama": "USDe",
+    "harga_usd": "N/A",
+    "market_cap": "N/A",
+    "sumber": "CoinMarketCap",
+    "waktu_scraping": "2026-04-07 20:35:53.140085"
+  },
+  {
+    "no": 18,
+    "nama": "CC",
+    "harga_usd": "N/A",
+    "market_cap": "N/A",
+    "sumber": "CoinMarketCap",
+    "waktu_scraping": "2026-04-07 20:35:53.145100"
+  },
+  {
+    "no": 19,
+    "nama": "DAI",
+    "harga_usd": "N/A",
+    "market_cap": "N/A",
+    "sumber": "CoinMarketCap",
+    "waktu_scraping": "2026-04-07 20:35:53.147567"
+  },
+  {
+    "no": 20,
+    "nama": "XLM",
+    "harga_usd": "N/A",
+    "market_cap": "N/A",
+    "sumber": "CoinMarketCap",
+    "waktu_scraping": "2026-04-07 20:35:53.166585"
+  }
+]
